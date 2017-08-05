@@ -7,3 +7,4 @@ have to change the ppf to kmph.
 this is optimised for the tennis ball.
 for other balls the parameters have to be tweaked.
 
+kalman filter is fun.
